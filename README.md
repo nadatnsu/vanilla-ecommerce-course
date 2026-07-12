@@ -1,6 +1,6 @@
 # Vanilla E-Commerce Course
 
-> Build a production-style e-commerce website with **HTML**, **CSS**, and **Vanilla JavaScript** in **12 weeks** by developing a complete, end-to-end application.
+> Build a production-style e-commerce website with **HTML**, **CSS**, and **Vanilla JavaScript** in **12 weeks** by developing a complete, end-to-end application for a online Coffee Shop .
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
